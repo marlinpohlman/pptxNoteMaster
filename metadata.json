@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Notes Generator",
+  "description": "Upload a PPTX or PDF presentation, and this application will use AI to analyze the content and generate professional speaker notes for each slide. The final output is a new PPTX file with your original slides and the AI-generated notes.",
+  "requestFramePermissions": []
+}
